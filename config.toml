@@ -1,0 +1,12 @@
+[owner]
+name = "Alex Osipenko"
+email = "mr.aosipenko@gmail.com"
+
+[database]
+REDIS_HOST = "127.0.0.1"
+REDIS_PORT = "6379"
+
+[servers]
+
+[servers.client]
+uri = "" # example "192.168.1.240:8880"
